@@ -2,7 +2,7 @@
 
 - Estudante de Analise e Desenvolvimento de sistemas (ADS)
 - Busco Atuar como Desenvolvedor de Software
-- atualmente aprofundando meus conhecimentos em Liguagem C, Dev-C++, VS CODE e SQL
+- atualmente aprofundando meus conhecimentos em Liguagem C, Dev-C++, VS CODE, Java e SQL
 
 ## Tecnologias e Ferramentas
 
